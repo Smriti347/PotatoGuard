@@ -9,7 +9,6 @@ PotatoGuard is an AI-powered solution for detecting diseases in potato plants us
 - **Disease Detection**: Quickly identify diseases in potato plants, including Early Blight, Late Blight, and Healthy plants.
 - **User-Friendly Interface**: Intuitive web application interface for easy interaction.
 - **Fast and Accurate**: Utilizes convolutional neural networks (CNNs) for fast and accurate disease detection.
-- **Scalable Deployment**: Deployed on Google Cloud Platform (GCP) for scalability and reliability.
 
 ## Usage
 
